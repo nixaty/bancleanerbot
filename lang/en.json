@@ -1,0 +1,6 @@
+{
+    "command_start": "Hello! I am a cleaning bot, I remove all users from the chat/channel blacklist. To clear blacklist, just add me to chat as admin with the right to ban users.",
+    "successfully_cleared": "Chat blacklist has been successfully cleared. \nCount of removed users from blacklist: {count}",
+    "bot_need_ban_right": "Bot must be added as admin with the right to ban users.",
+    "blacklist_is_empty": "The chat blacklist is empty. Nobody unbanned."
+}
